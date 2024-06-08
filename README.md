@@ -16,7 +16,7 @@ Features include:
 
 The font however depends on the one set on your system. 
 It must ba a type of Nerd font, they usually look cool and have icons butilt into them.
-Check out [NerdFonts](https://www.nerdfonts.com/) and download and configure your nerdfont of choice.
+Check out [NerdFonts](https://www.nerdfonts.com/) , download and configure your nerdfont of choice.
 If you dont know how to, check out [how to sutup nerd fonts](https://youtu.be/LJ7CEhnS0OM).
 
 
@@ -51,11 +51,7 @@ $ mv Nvim/config/* .
 $ rm -rf Nvim
 ```
 
--> When you run ```$ ls``` while in ```nvim/``` it should display this:
-
-
-
-when you run ```$ tree nvim``` while inside the ```.config/``` directory, it should display this:
+-> When you run ```$ tree nvim``` while inside the ```.config/``` directory, it should display this:
 
 ![nvimtree2](https://github.com/Joe-BN/Nvim/assets/128038111/17d26f0c-f854-4e02-a25a-3d9ed3517b32)
 
