@@ -39,6 +39,22 @@ $ sudo pacman -S git
 ```
 $ git clone https://github.com/Joe-BN/Nvim/config
 ```
+
+-> Run the following command to unpack all the necessary files into the current directory
+
+```
+$ mv Nvim/config/* .
+```
+
+-> Run this to delete the ``` Nvim ``` folder gotten from github:
+``` 
+$ rm -rf Nvim
+```
+
+-> When you run ```$ ls``` while in ```nvim/``` it should display this:
+
+
+
 when you run ```$ tree nvim``` while inside the ```.config/``` directory, it should display this:
 
 ![nvimtree2](https://github.com/Joe-BN/Nvim/assets/128038111/17d26f0c-f854-4e02-a25a-3d9ed3517b32)
