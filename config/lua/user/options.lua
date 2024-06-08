@@ -1,4 +1,4 @@
-print("Hello, welcome Joe ")
+print("Hello, Welcome ! ")
 
 --(all thanks to: Understanding Neovim by: Vhyrro)
 
