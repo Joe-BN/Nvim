@@ -32,5 +32,10 @@ $ sudo pacman -S git
 ```
 $ git clone https://github.com/Joe-BN/Nvim/config
 ```
+when you run ```$ tree .``` while inside the ```nvim/``` directory, it should display this:
+
+![treeinnvim](https://github.com/Joe-BN/Nvim/assets/128038111/8b00de45-5b0b-444d-a768-0fd99afdf144)
+
+
 
  Enjoy     : )
