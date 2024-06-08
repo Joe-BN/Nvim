@@ -39,7 +39,7 @@ $ sudo pacman -S git
 ```
 $ git clone https://github.com/Joe-BN/Nvim/config
 ```
-when you run ```$ tree .``` while inside the ```nvim/``` directory, it should display this:
+when you run ```$ tree nvim``` while inside the ```.config/``` directory, it should display this:
 
 ![nvimtree2](https://github.com/Joe-BN/Nvim/assets/128038111/17d26f0c-f854-4e02-a25a-3d9ed3517b32)
 
