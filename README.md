@@ -4,11 +4,12 @@ A simple nvim config folder.
 Using [lazy.nvim](https://github.com/folke/lazy.nvim) to bring in some useful functionality without making it too complex.
 
 Features include:
-+ Tokyonight theme
-+ Nvim tree
-+ Barbar
-+ Lualine
-+ Telescope
++ Tokyonight/Night (theme)
++ Nvim tree (file tree)
++ Nvimtreesitter (syntax highlighting)
++ Barbar (tab spaces)
++ Lualine (Nvim status line)
++ Telescope (fuzzy finder)
 
 (All configured with easy to use keybindings, which you can change as you please)
 
