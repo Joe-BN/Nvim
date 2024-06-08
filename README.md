@@ -13,6 +13,11 @@ Features include:
 + Lualine (Nvim status line)
 + Telescope (fuzzy finder)
 
+The font however depends on the one set on your system. 
+It must ba a type of Nerd font, they usually look cool and have icons butilt into them.
+Check out [NerdFonts](https://www.nerdfonts.com/) and download and configure your nerdfont of choice.
+If you dont know how to, check out [how to sutup nerd fonts](https://youtu.be/LJ7CEhnS0OM).
+
 (All configured with easy to use keybindings, which you can change as you please)
 
 For those new to this:
@@ -36,8 +41,6 @@ $ git clone https://github.com/Joe-BN/Nvim/config
 ```
 when you run ```$ tree .``` while inside the ```nvim/``` directory, it should display this:
 
-![treeinnvim](https://github.com/Joe-BN/Nvim/assets/128038111/8b00de45-5b0b-444d-a768-0fd99afdf144)
+![nvimtree2](https://github.com/Joe-BN/Nvim/assets/128038111/17d26f0c-f854-4e02-a25a-3d9ed3517b32)
 
-
-
- Enjoy     : )
+Enjoy     : )
