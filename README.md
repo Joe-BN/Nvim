@@ -1,6 +1,8 @@
 # Nvim
 A simple nvim config folder.
 
+![nvimscreen](https://github.com/Joe-BN/Nvim/assets/128038111/597f8228-4669-4736-9860-76d00c19e296)
+
 Using [lazy.nvim](https://github.com/folke/lazy.nvim) to bring in some useful functionality without making it too complex.
 
 Features include:
