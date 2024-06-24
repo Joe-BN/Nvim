@@ -55,4 +55,6 @@ $ rm -rf Nvim
 
 ![nvimtree2](https://github.com/Joe-BN/Nvim/assets/128038111/17d26f0c-f854-4e02-a25a-3d9ed3517b32)
 
+-> After the setup above, run ```$ nvim ``` and Lazy will download and sync the required dependencies.
+
 Enjoy     : )
