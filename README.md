@@ -15,7 +15,7 @@ Features include:
 (All configured with easy to use keybindings, which you can change as you please)
 
 The font however depends on the one set on your system. 
-It must ba a type of Nerd font, they usually look cool and have icons butilt into them.
+It must ba a type of Nerd font, they usually look cool and have icons butlt into them.
 Check out [NerdFonts](https://www.nerdfonts.com/) , download and configure your nerdfont of choice.
 If you dont know how to, check out [how to sutup nerd fonts](https://youtu.be/LJ7CEhnS0OM).
 
